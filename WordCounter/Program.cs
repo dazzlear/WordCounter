@@ -45,7 +45,7 @@ class Program
                 // ignore spaces, punctuation, symbols
             }
 
-            Console.WriteLine($"Word count      : {wordCount}");
+            Console.WriteLine($"Wodss counttt  : {wordCount}");
             Console.WriteLine($"Vowel count     : {vowelCount}");
             Console.WriteLine($"Consonant count : {consonantCount}");
             Console.WriteLine($"Number count    : {numberCount}\n");
